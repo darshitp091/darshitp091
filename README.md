@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m an enthusiastic Computer Science student who enjoys building things with Python, Java, and modern AI technologies.
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-View-blue.svg?style=for-the-badge&logo=google-chrome)](https://patel-darshit-v7h9q9.vise.page/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-View-blue.svg?style=for-the-badge&logo=google-chrome)](https://darshit-portfolio-eta.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pateldarshit091/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge)](https://github.com/darshitp091)
 [![Email](https://img.shields.io/badge/Email-darshitp091@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:darshitp091@gmail.com)
