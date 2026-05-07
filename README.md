@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m an enthusiastic Computer Science student who
 
 ## 🛠️ Skills
 
-- **Programming:** Python, Java
+- **Programming:** JavaScript, CSS, Java
 - **AI/ML:** Generative AI, Prompt Engineering, AI Engineering, Gemini, Open-source ollama models
 - **APIs:** Google APIs
 - **Other:** Problem Solving, Software Development
