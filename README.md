@@ -54,7 +54,7 @@ I am not optimized for "demo-only" projects. I care about state management, fail
 | Data / backend | PostgreSQL, Supabase, REST APIs, WebSockets, PL/pgSQL |
 | AI infrastructure | Cost budgets, circuit-breaking, model fallback routing, local-first inference |
 | Engineering habits | Typed interfaces, modular architectures, reproducible setup, README-first documentation |
-| Portfolio | [darshit-portfolio-eta.vercel.app](https://darshit-portfolio-eta.vercel.app/) |
+| Portfolio | [darshit-portfolio-eta.vercel.app](https://darshitpatel.me) |
 
 ---
 
