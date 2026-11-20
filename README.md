@@ -1,238 +1,253 @@
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--  DARSHIT PATEL — GITHUB PROFILE README                        -->
-<!--  Unique blend: 3D isometric calendar · Vaunt orbits ·          -->
-<!--  Scattered tech · Nightowl theme · Capsule render             -->
-<!-- ════════════════════════════════════════════════════════════ -->
-<!-- 🔵 Capsule Render Header — Animated Gradient Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:F107A3,100:770677&height=140&section=header&text=Darshit%20Patel&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=B.Tech%20CS%20%7C%20AI%20Systems%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=16" width="100%" />
-</p>
-<!-- 🦉 Floating Right Image — Tech Owl -->
-<div align="right">
-  <img width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Tech Owl" />
-</div>
-<!-- 👋 Greeting -->
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴅᴀʀsʜɪᴛ!
-AI Systems Builder · Full-Stack Developer · B.Tech CS Student
-
-
-<!-- 📝 Intro -->
-<p align="left">I'm a 4th-year B.Tech Computer Science student who builds production-grade AI systems — from multi-agent orchestration middleware to real-time platforms and local AI voice assistants. I ship real applications, not just coursework.</p>
-🔭 Currently building: Agent Circuit Breaker & JARVIS
-🌱 Currently learning: RAG Systems, Vector Databases, Distributed AI
-💬 Ask me about: Python, Next.js, LLMs, Multi-Agent Systems, Ollama, Whisper
-⚡ Fun fact: I built a fully offline AI assistant that understands Hinglish
-🎓 B.Tech CS @ NIMS University (2023–2027)
-💻 Visit my Portfolio for more details
-<!-- 👁️ Profile Views Badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=darshitp091&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="darshitp091" style="padding-right:20px;" />
-  <img src="https://img.shields.io/github/followers/darshitp091?label=Followers&style=for-the-badge&color=770677" alt="Followers" />
-</p>
----
-<!-- 🛠️ Tech Stack — Scattered Icons -->
-<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://supabase.com" target="_blank"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/></a>
-</p>
-<h3 align="center">🤖 AI & ML Stack</h3>
-<p align="center">
-  <code><img src="https://img.shields.io/badge/LLMs-LLaMA%203%20%7C%20Mistral%20%7C%20Groq-7B2FF7?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/Whisper%20STT-Fine%20Tuned%20Hinglish-770677?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/MediaPipe-Hand%20%7C%20Eye%20Gaze-F107A3?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-7B2FF7?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/LoRA-PyTorch%20Fine%20Tuning-770677?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/Ollama-Local%20LLM-F107A3?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/LangGraph-Multi%20Agent-7B2FF7?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/CrewAI-Agent%20Orchestration-770677?style=flat-square" /></code>
-  <code><img src="https://img.shields.io/badge/Vertex%20AI-Google%20Cloud-F107A3?style=flat-square" /></code>
-</p>
-<h3 align="center">🌱 Currently Learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG%20Systems-In%20Progress-7B2FF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-In%20Progress-770677?style=flat-square" />
-  <img src="https://img.shields.io/badge/Distributed%20AI-Exploring-F107A3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kubernetes-Exploring-7B2FF7?style=flat-square" />
-</p>
-<br />
----
-<!-- 🚀 Flagship Projects -->
-<h2 align="center">🚀 Fʟᴀɢsʜɪᴘ Pʀᴏᴊᴇᴄᴛs</h2>
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔌 Agent Circuit Breaker</h3>
-      <p align="center">Open-source middleware intercepting infinite loops in multi-agent AI workflows (LangGraph, CrewAI, AutoGen) using TF-IDF cosine similarity & Levenshtein edit distance. Stateful circuit breaker, USD cost budgets, time-travel debugging, and auto-fine-tuning with PyTorch LoRA.</p>
-      <p align="center"><strong>Python · TF-IDF · PyTorch LoRA · LangGraph</strong></p>
-      <p align="center"><a href="https://github.com/darshitp091/agent-circuit-breaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darshitp091&repo=agent-circuit-breaker&theme=dark&bg_color=0D1117&title_color=7B2FF7&text_color=ffffff&hide_border=true" alt="Agent Circuit Breaker" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 JARVIS — Local AI Voice Assistant</h3>
-      <p align="center">Fully offline AI assistant with fine-tuned Whisper STT (Hinglish), MediaPipe hand-gesture cursor control, eye-gaze tracking, neural TTS, and hybrid LLM fallback router across local Ollama & cloud APIs. Full OS automation controller.</p>
-      <p align="center"><strong>Python · MediaPipe · OpenCV · Whisper · PyQt6</strong></p>
-      <p align="center"><a href="https://github.com/darshitp091/Jarvis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darshitp091&repo=Jarvis&theme=dark&bg_color=0D1117&title_color=7B2FF7&text_color=ffffff&hide_border=true" alt="JARVIS" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⌨️ TypeLively — Real-Time Typing Platform</h3>
-      <p align="center">Zero-lag typing platform with sliding 50-word DOM window, real-time leaderboard via Supabase WebSockets, server-side bot rejection, and Web Audio API engine synthesizing mechanical keyboard sounds in-browser.</p>
-      <p align="center"><strong>Next.js 16 · React 19 · TypeScript · Supabase</strong></p>
-      <p align="center"><a href="https://github.com/darshitp091/TypeLively"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darshitp091&repo=TypeLively&theme=dark&bg_color=0D1117&title_color=7B2FF7&text_color=ffffff&hide_border=true" alt="TypeLively" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 BolKe — Voice-to-Web Pipeline</h3>
-      <p align="center">Distributed pipeline converting raw multilingual voice input into niche-specific storefronts via real-time STT, LLM inference, and dynamic frontend generation across 5 industry verticals with fault-tolerant failover.</p>
-      <p align="center"><strong>React · Node.js · Whisper · Ollama · Groq</strong></p>
-      <p align="center"><a href="https://github.com/darshitp091/BolKe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darshitp091&repo=BolKe&theme=dark&bg_color=0D1117&title_color=7B2FF7&text_color=ffffff&hide_border=true" alt="BolKe" /></a></p>
-    </td>
-  </tr>
-</table>
-<br />
----
-<!-- 🏆 GitHub Trophies -->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/darshitp091">
-    <img src="https://github-profile-trophy.vercel.app/?username=darshitp091&theme=darkhub&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies" />
-  </a>
-</p>
-<!-- 🎯 Vaunt Achievements — 3D Orbit Circles -->
-<h2 align="center">🎯 Vᴀᴜɴᴛ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
-<p align="center">
-  <a href="https://github.com/darshitp091">
-    <img src="https://api.vaunt.dev/v1/github/entities/darshitp091/achievements?format=svg&limit=6" width="400" alt="Vaunt Achievements" />
-  </a>
-</p>
-<br />
----
-<!-- 📊 GitHub Stats — Nightowl Custom Theme -->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/darshitp091">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=darshitp091&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,1a0a2e&title_color=7B2FF7&text_color=ffffff&icon_color=F107A3&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/darshitp091">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshitp091&theme=nightowl&background=0,000000,1a0a2e&fire=F107A3&ring=7B2FF7&sideNums=ffffff&sideLabels=ffffff&dates=7B2FF7&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/darshitp091">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-languages?username=darshitp091&layout=compact&theme=nightowl&bg_color=0,000000,1a0a2e&title_color=7B2FF7&text_color=ffffff&hide_border=true" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/darshitp091">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=darshitp091&limit=3&theme=nightowl&bg_color=0,000000,1a0a2e&title_color=7B2FF7&text_color=ffffff&hide_border=true" alt="Top Contributions" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
----
-<!-- 📅 3D Isometric Commit Calendar -->
-<h2 align="center">📅 3D Iꜱᴏᴍᴇᴛʀɪᴄ Cᴏᴍᴍɪᴛ Cᴀʟᴇɴᴅᴀʀ</h2>
-<p align="center">
-  <img src="https://metrics.lecoq.io/darshitp091?template=classic&isocalendar=1&isocalendar.duration=full-year&config.isocalendar.duration=full-year" alt="3D Isometric Calendar" width="90%" />
-</p>
-<br />
----
-<!-- 📈 Contribution Graph -->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!-- DARSHIT PATEL | PROFILE README | RECRUITER-OPTIMIZED -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitp091&bg_color=0D1117&color=7B2FF7&line=F107A3&point=ffeb95&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="95%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B18,35:5B21B6,70:0EA5E9,100:22D3EE&height=200&section=header&text=PATEL%20DARSHIT&fontSize=52&fontAlignY=34&desc=AI%20SYSTEMS%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=18&descAlignY=58&animation=twinkling&fontColor=FFFFFF" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+ship+to+real+users;Full-stack+%7C+LLM+%7C+RAG+%7C+Computer+Vision;Python+%2B+Next.js+%2B+Systems+Thinking" alt="Typing introduction" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://darshit-portfolio-eta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshitp091/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshitp091@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshitp091)
+
+<img src="https://komarev.com/ghpvc/?username=darshitp091&style=for-the-badge&color=5B21B6&label=PROFILE+VISITS" alt="Profile views" />
+
 </div>
-<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" /> Player Profile
+
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║  PLAYER  : Darshit Patel                                          ║
+║  CLASS   : AI Systems Builder + Full-Stack Developer              ║
+║  BASE    : India                                                  ║
+║  STUDY   : B.Tech Computer Science, NIMS University (2023–2027)   ║
+║  QUEST   : Engineer useful, reliable, measurable AI products      ║
+║  STATUS  : Open to internships, graduate roles, and collaborations║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+I build end-to-end products that combine **Python, modern web engineering, language models, and applied computer vision**. My strongest work sits where software meets an operational problem: offline voice assistants, agent reliability middleware, real-time web platforms, browser automation, and AI-powered business tools.
+
+I am not optimized for "demo-only" projects. I care about state management, failure modes, latency, local-first privacy, cost controls, observability, and a clear path from prototype to use.
+
+### Profile Readme Formula: **C–A–T–I**
+
+| Step | Recruiter-facing question | How I answer it |
+|:---:|:---|:---|
+| **C** | What problem existed? | Start with the real constraint or user pain. |
+| **A** | What did you personally design/build? | Name the architecture, stack, and engineering decisions. |
+| **T** | What trade-off did you manage? | Explain cost, latency, privacy, reliability, or complexity. |
+| **I** | What changed because of the build? | State verified behavior, capability, or product outcome—never invent metrics. |
+
 ---
-<!-- 📜 Certifications -->
-<h2 align="center">📜 Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering%20%26%20AI-Google%20Cloud-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vertex%20AI%20Prompt%20Design-Google%20Cloud-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Technology%20Consulting-Deloitte-86BC44?style=for-the-badge" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Credit%20Card.png" width="32" /> Recruiter Quick View
+
+| Dimension | Evidence |
+|:---|:---|
+| Primary stack | Python, TypeScript, JavaScript, Next.js, React, FastAPI, Node.js |
+| AI / ML | RAG, LLM orchestration, Whisper fine-tuning, Ollama, Groq, LangGraph, PyTorch/LoRA |
+| Applied vision | MediaPipe, OpenCV, hand gestures, eye-gaze tracking |
+| Data / backend | PostgreSQL, Supabase, REST APIs, WebSockets, PL/pgSQL |
+| AI infrastructure | Cost budgets, circuit-breaking, model fallback routing, local-first inference |
+| Engineering habits | Typed interfaces, modular architectures, reproducible setup, README-first documentation |
+| Portfolio | [darshit-portfolio-eta.vercel.app](https://darshit-portfolio-eta.vercel.app/) |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> Flagship Build Log
+
+### 01 | JARVIS — Privacy-First Spatial AI Assistant
+
+<p>
+  <a href="https://github.com/darshitp091/Jarvis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darshitp091&repo=Jarvis&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 </p>
-<br />
----
-<!-- 💡 Dev Quote — Dynamic -->
-<h2 align="center">💡 Dᴇᴠ Qᴜᴏᴛᴇ</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
+**C — Context:** Typical desktop assistants depend on the cloud and do not provide rich, hands-free spatial control.
+
+**A — Architecture:** Built a Python desktop control system with fine-tuned Whisper-style Hinglish speech understanding, MediaPipe hand tracking, eye-gaze tracking, neural TTS, Ollama/local model routing, cloud fallback, and OS automation.
+
+**T — Trade-offs:** Balanced privacy and capability by prioritizing local inference while retaining explicit fallback paths for tasks that need more compute.
+
+**I — Impact:** Demonstrates an end-to-end local AI workflow—from microphone input and vision signals to agent decisions and executable desktop actions—rather than a disconnected model demo.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Privacy-first-22C55E?style=flat-square" />
 </p>
-<br />
+
 ---
-<!-- 🤝 Connect With Me — Circular Icons -->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
+### 02 | Agent Circuit Breaker — Reliability Middleware for AI Agents
+
+**C — Context:** Multi-agent systems can loop, drift, and generate redundant tool calls until latency and API cost become uncontrolled.
+
+**A — Architecture:** Designed middleware for LangGraph, CrewAI, and AutoGen workflows using semantic loop detection, TF-IDF cosine similarity, edit-distance analysis, state checkpoints, cost budgets, time-travel debugging, and PyTorch LoRA support.
+
+**T — Trade-offs:** Added multiple detection signals instead of relying on one similarity rule, balancing false positives with the need to stop runaway execution quickly.
+
+**I — Impact:** Moves agent reliability concerns outside the prompt and into a reusable middleware layer, making multi-agent behavior more observable and easier to control.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TF--IDF-5B21B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/LoRA-22D3EE?style=flat-square" />
+</p>
+
+---
+
+### 03 | TypeLively — Real-Time Typing Experience
+
+<p>
+  <a href="https://github.com/darshitp091/TypeLively"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darshitp091&repo=TypeLively&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+</p>
+
+**C — Context:** A typing game should feel immediate, retain accurate test state, and remain fair across concurrent users.
+
+**A — Architecture:** Built with Next.js 16, React 19, TypeScript, Supabase real-time channels, a sliding word window, server-side bot rejection, and Web Audio for generated mechanical-keyboard feedback.
+
+**T — Trade-offs:** Used a bounded DOM rendering window and real-time synchronization to protect low-latency interaction instead of rendering an entire test at once.
+
+**I — Impact:** Combines live state, competitive leaderboards, audio feedback, and abuse resistance in one browser-native product.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Audio-F107A3?style=flat-square" />
+</p>
+
+---
+
+### 04 | BolKe — Voice-to-Storefront Pipeline
+
+<p>
+  <a href="https://github.com/darshitp091/BolKe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darshitp091&repo=BolKe&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+</p>
+
+**C — Context:** Small-business owners need a faster route from spoken requirements to an industry-specific online presence.
+
+**A — Architecture:** Built a distributed pipeline for speech capture, transcription, LLM inference, generated storefront structure, and dynamic React rendering across multiple business verticals.
+
+**T — Trade-offs:** Designed provider fallback around inference availability while keeping the generated experience modular enough for different industries.
+
+**I — Impact:** Turned a natural-language input workflow into a repeatable generation pipeline instead of a static landing-page template.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Joystick.png" width="32" /> More Missions
+
+| Project | Mission | Core Engineering |
+|:---|:---|:---|
+| [Chess Engine](https://github.com/darshitp091/chess-engine) | Deterministic fixed-node chess engine for a 4 KB Python bounty | Search constraints, fixed-node logic, Python optimization |
+| [Readme.3D](https://github.com/darshitp091/Readme.3D) | Immersive 3D README experience with AI-assisted documentation synthesis | Gemini integration, TypeScript, generated web UI |
+| [YourCV](https://github.com/darshitp091/YourCV) | Open-source AI resume builder focused on ATS-friendly output | Google Gemini, LaTeX-style templates, JavaScript |
+| [RoadSter Free Racing](https://github.com/darshitp091/RoadSter-Free-Racing) | Racing game experience | TypeScript, game-state design, frontend interaction |
+| [Facebook Lead Follow-Up](https://github.com/darshitp091/Facebook-Lead-Finde-Follow-Ups) | Automated lead capture and personalized follow-up | n8n, Google Sheets, Gmail, OpenRouter |
+| [WhatsApp Booking Assistant](https://github.com/darshitp091/Whatsapp-Booking-Assistant-Automation) | Booking automation workflow | Python, conversational automation, integrations |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="32" /> Engineering Loadout
+
 <div align="center">
-  <a href="mailto:darshitp091@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Email" style="margin-bottom: 5px; filter: invert(0); background: #D14836; border-radius: 50%; padding: 8px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/darshitp091/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px; filter: invert(0); background: #0A66C2; border-radius: 50%; padding: 8px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/darshitp091" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="50" height="50" alt="GitHub" style="margin-bottom: 5px; filter: invert(1); background: #181717; border-radius: 50%; padding: 8px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://darshit-portfolio-eta.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="50" height="50" alt="Portfolio" style="margin-bottom: 5px; filter: invert(0); background: #4285F4; border-radius: 50%; padding: 8px;" />
-  </a>
+
+### Languages & Runtime
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,html,css&theme=dark&perline=6" />
+
+### Frameworks & Data
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,supabase,tailwind&theme=dark&perline=7" />
+
+### AI, Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,gcp,vercel,vscode,linux&theme=dark&perline=8" />
+
 </div>
-<br />
+
+### Skill XP
+
+```text
+Python & applied automation       ████████████████████░  94%
+Full-stack TypeScript / Next.js   ██████████████████░░░  88%
+LLM systems & orchestration       █████████████████░░░░  84%
+Computer vision & multimedia AI   ████████████████░░░░░░  78%
+RAG / vector databases / scaling  ██████████████░░░░░░░░  70%
+```
+
+> XP bars represent a personal learning map, not formal benchmarks or company ratings.
+
 ---
-<!-- 🔵 Capsule Render Footer — Animated Gradient Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:F107A3,100:770677&height=80&section=footer" width="100%" />
-</p>
-<p align="center">
-  <em>Let's connect and build something amazing! 🚀</em>
-</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> GitHub Telemetry
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshitp091&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-languages/?username=darshitp091&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=darshitp091&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitp091&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%" alt="Contribution graph" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="32" /> Certifications & Continuous Learning
+
+- Google Cloud — Prompt Engineering & AI
+- Google Cloud — Vertex AI Prompt Design
+- Deloitte — Technology Consulting
+- Deepening: RAG architectures, vector databases, distributed AI, Kubernetes, and production MLOps
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullet%20Train.png" width="32" /> Current Build Queue
+
+```mermaid
+flowchart LR
+    A[Reliable agent loops] --> B[Cost-aware orchestration]
+    B --> C[Observability & debugging]
+    C --> D[Production deployment]
+```
+
+- **Exploring:** RAG evaluation, vector search, distributed inference, Kubernetes
+- **Strengthening:** system design, testing, deployment, data pipelines
+- **Open to:** AI Engineer, Full-Stack Developer, Python Developer, and SDE internship opportunities
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="32" /> Establish Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshit_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshitp091/)
+[![Email](https://img.shields.io/badge/Gmail-darshitp091%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshitp091@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-111827?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://darshit-portfolio-eta.vercel.app/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B18,35:5B21B6,70:0EA5E9,100:22D3EE&height=110&section=footer&text=BUILD.%20BREAK.%20LEARN.%20SHIP.&fontSize=24&fontAlignY=65&animation=twinkling&fontColor=FFFFFF" width="100%" />
+
+</div>
