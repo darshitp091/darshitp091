@@ -206,7 +206,7 @@ RAG / vector databases / scaling  ██████████████░�
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=darshitp091&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-languages/?username=darshitp091&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshitp091&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=darshitp091&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
