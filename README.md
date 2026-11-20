@@ -7,7 +7,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://darshit-portfolio-eta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://darshitpatel.me/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshitp091/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshitp091@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshitp091)
